@@ -1,2 +1,2 @@
-# Android App
-A simple app to change the background color when button is pressed 
+# Java Practice Code - Description
+This is a simple application which has a button. If that button is clicked by the user, the background color will be changed.
